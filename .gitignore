@@ -1,8 +1,7 @@
-__pycache__/
-resultados_B/
+resultados_boletins/
 resultados_CA/
 resultados_DE/
 boletins/
 atas_conselho_de_administração/
 atas_diretoria_executiva/
-*.pyc
+/__pycache__
